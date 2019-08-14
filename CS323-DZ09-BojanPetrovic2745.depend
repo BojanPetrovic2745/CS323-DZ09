@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1565803207 source:/home/spejskau/Documents/CS323-PZ02-BojanPetrovic2745/CS323-DZ09-BojanPetrovic2745/main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"Student.h"
+
+1565791549 source:/home/spejskau/Documents/CS323-PZ02-BojanPetrovic2745/CS323-DZ09-BojanPetrovic2745/src/Student.cpp
+	"Student.h"
+	<fstream>
+
+1565791883 /home/spejskau/Documents/CS323-PZ02-BojanPetrovic2745/CS323-DZ09-BojanPetrovic2745/include/Student.h
+	<iostream>
+
